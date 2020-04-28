@@ -1,0 +1,393 @@
+stage,type,winner_country,wins,flat_cobble,flat,high_mountain,hilly,individual_time_trial,intermediate,medium_mountain,mountain,mountain_time_trial,plain,plain_with_cobble,stage_with_mountain,team_time_trial,transition
+1,Stage with mountain,FRA,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Stage with mountain,BEL,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Stage with mountain,ESP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Stage with mountain,NED,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Stage with mountain,ESP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Stage with mountain,NED,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2,Team time trial,BEL,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,Team time trial,BEL,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9,Team time trial,BEL,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+14,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+15,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+16,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+18,Team time trial,BEL,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+19,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+21,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22,Team time trial,BEL,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+23,Team time trial,FRA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9,Stage with mountain,ITA,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,Mountain time trial,NED,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,Stage with mountain,NED,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,Stage with mountain,ESP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Individual time trial,NED,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Stage with mountain,NED,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Mountain time trial,ESP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+11,Plain stage,NED,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2,Hilly stage,ESP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Plain stage,NED,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Flat stage,ESP,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,Flat stage,FRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,Mountain stage,FRA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8,Mountain stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,Mountain Stage,NED,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,Flat stage,FRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,Individual time trial,NED,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Individual time trial,NED,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+15,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,Individual time trial,ESP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+16,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18,Individual time trial,ESP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+15,Plain stage,NED,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+9,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+9,Hilly stage,ITA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+9,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,Plain stage,NED,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+11,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+17,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Plain stage with cobblestones,NED,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+18,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,Mountain time trial,NED,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+11,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+12,Hilly stage,ESP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+18,Mountain time trial,FRA,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+4,Flat cobblestone stage,NED,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Mountain time trial,ITA,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+20,Mountain time trial,ITA,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+13,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Hilly stage,ESP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+18,Stage with mountain,NED,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Hilly stage,ITA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Hilly stage,ESP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3,Flat stage,ESP,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,Flat stage,FRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,Flat stage,FRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10,Mountain Stage,NED,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11,Mountain Stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+12,Mountain Stage,FRA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4,Flat Stage,NED,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,Flat stage,ESP,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20,Stage with mountain,BEL,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+17,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22,Plain stage,ESP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+21,Stage with mountain,ESP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Stage with mountain,ITA,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,Stage with mountain,ESP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,Stage with mountain,FRA,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+23,Stage with mountain,BEL,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+12,Mountain stage,ITA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+18,Hilly stage,FRA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Mountain Stage,BEL,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+18,Hilly stage,NED,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Mountain stage,ITA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,Hilly stage,ITA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6,Flat Stage,ITA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,Flat stage,NED,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Mountain Stage,BEL,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Hilly stage,BEL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Mountain stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7,Flat Stage,BEL,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,Intermediate stage,ITA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,Intermediate stage,BEL,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+17,Intermediate stage,ITA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+24,Plain stage,ITA,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Flat stage,ITA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,Transition stage,ESP,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,Transition stage,ESP,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,Mountain Stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+15,Mountain stage,FRA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,Flat stage,ESP,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Flat stage,ESP,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,Mountain stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Individual time trial,BEL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,Flat stage,FRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,Flat Stage,BEL,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+18,Flat stage,ITA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2,Medium mountain stage,BEL,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2,Medium mountain stage,ITA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,Mountain stage,ESP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+20,Mountain Stage,NED,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,Medium mountain stage,BEL,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,High mountain stage,NED,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,High mountain stage,ITA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,Medium mountain stage,ITA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,High mountain stage,BEL,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,Medium mountain stage,NED,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,Medium mountain stage,FRA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+13,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+19,Flat stage,ITA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,High mountain stage,ITA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,Medium mountain stage,ESP,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,High mountain stage,BEL,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,High mountain stage,ESP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+11,Medium mountain stage,FRA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+12,Medium mountain stage,ESP,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,High mountain stage,ESP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+13,Medium mountain stage,BEL,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,High mountain stage,ITA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+24,Individual time trial,FRA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,Flat stage,ITA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Medium mountain stage,ITA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Medium mountain stage,NED,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,High mountain stage,ITA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,High mountain stage,ESP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,Medium mountain stage,ESP,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,High mountain stage,FRA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,Flat stage,NED,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,Stage with mountain,BEL,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Stage with mountain,ITA,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Stage with mountain,ITA,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Team time trial,BEL,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4,Team time trial,BEL,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5,Team time trial,FRA,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,Team time trial,BEL,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+19,Team time trial,BEL,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4,Plain stage,ESP,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Individual time trial,FRA,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,Stage with mountain,NED,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Individual time trial,ITA,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,Mountain time trial,ESP,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,Individual time trial,ESP,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,Stage with mountain,NED,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Individual time trial,FRA,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,Plain stage,ITA,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,Individual time trial,NED,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,Individual time trial,BEL,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1,Flat Stage,BEL,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,Flat stage,ITA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2,Flat Stage,ITA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Individual time trial,FRA,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,Individual time trial,BEL,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,Plain stage,ITA,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Individual time trial,BEL,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,Individual time trial,ESP,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,Individual time trial,ESP,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,Hilly stage,NED,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+18,Stage with mountain,ESP,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Plain stage,ITA,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Plain stage,NED,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Plain stage,BEL,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Individual time trial,NED,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,Hilly stage,FRA,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,Individual time trial,ESP,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,Stage with mountain,ESP,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Hilly stage,FRA,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22,Individual time trial,ITA,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,Stage with mountain,ITA,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Hilly stage,FRA,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+4,Flat stage,ITA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+15,Hilly stage,ITA,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,Stage with mountain,ITA,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Hilly stage,NED,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,Stage with mountain,FRA,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+23,Plain stage,BEL,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Hilly stage,ESP,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+23,Plain stage,ITA,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Flat stage,FRA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Mountain stage,FRA,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+15,Mountain Stage,ITA,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+17,Mountain stage,ESP,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,Flat Stage,FRA,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,High mountain stage,ESP,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,Flat Stage,BEL,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,High mountain stage,FRA,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,Stage with mountain,FRA,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Stage with mountain,BEL,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,Team time trial,BEL,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,Stage with mountain,ITA,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Plain stage,ITA,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Stage with mountain,ESP,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Stage with mountain,BEL,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Stage with mountain,ESP,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Individual time trial,ESP,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,Plain stage,ITA,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+16,Stage with mountain,NED,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Mountain stage,FRA,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+10,Mountain stage,ESP,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,Individual time trial,FRA,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,Plain stage,FRA,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Plain stage,NED,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+21,Individual time trial,FRA,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,Plain stage,NED,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Stage with mountain,ESP,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Hilly stage,FRA,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22,Plain stage,NED,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Flat Stage,FRA,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,Mountain stage,FRA,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8,Medium mountain stage,FRA,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,High mountain stage,FRA,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,Plain stage,NED,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,Plain stage,NED,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Stage with mountain,BEL,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Plain stage,NED,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Stage with mountain,BEL,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Stage with mountain,ESP,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Stage with mountain,ESP,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Stage with mountain,ESP,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,Stage with mountain,ITA,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Stage with mountain,ESP,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Plain stage,ITA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Stage with mountain,ESP,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Hilly stage,FRA,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+19,Plain stage,FRA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Plain stage,ITA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Plain stage,NED,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Plain stage,ITA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Stage with mountain,FRA,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+23,Plain stage,FRA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+24,Plain stage,FRA,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Stage with mountain,FRA,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Stage with mountain,ITA,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Stage with mountain,FRA,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Plain stage,NED,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Plain stage,ITA,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Plain stage,NED,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+12,Plain stage,NED,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Stage with mountain,BEL,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Stage with mountain,BEL,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Plain stage,ITA,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+16,Plain stage,ITA,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Plain stage,BEL,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Stage with mountain,ITA,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,Stage with mountain,BEL,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Plain stage,NED,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+22,Plain stage,ITA,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Plain stage,NED,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Plain stage,BEL,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Plain stage,NED,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Stage with mountain,BEL,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Plain stage,BEL,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,Stage with mountain,ESP,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Stage with mountain,ITA,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Stage with mountain,ITA,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Plain stage,ITA,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Plain stage,BEL,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Stage with mountain,NED,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Plain stage,FRA,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Plain stage,BEL,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Stage with mountain,FRA,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Plain stage,ITA,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+22,Plain stage,BEL,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+22,Plain stage,FRA,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,Stage with mountain,FRA,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Stage with mountain,FRA,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Stage with mountain,BEL,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Stage with mountain,ITA,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Plain stage,NED,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+13,Stage with mountain,ITA,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,Plain stage,BEL,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+16,Stage with mountain,BEL,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Stage with mountain,ESP,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Stage with mountain,ITA,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Plain stage,BEL,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Individual time trial,FRA,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,Plain stage,FRA,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Plain stage,BEL,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Plain stage,ITA,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Plain stage,NED,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Plain stage,ITA,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Plain stage,ITA,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Plain stage,BEL,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Stage with mountain,ITA,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Plain stage,BEL,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,Plain stage,BEL,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Stage with mountain,BEL,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Plain stage,ITA,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Plain stage,ITA,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+12,Stage with mountain,BEL,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Stage with mountain,FRA,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Plain stage,NED,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Plain stage,ITA,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Stage with mountain,FRA,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Plain stage,ITA,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+12,Stage with mountain,FRA,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Stage with mountain,BEL,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Stage with mountain,FRA,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Plain stage,BEL,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Stage with mountain,FRA,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Plain stage,ITA,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Stage with mountain,BEL,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Plain stage,BEL,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Plain stage,FRA,11,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Stage with mountain,FRA,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,Stage with mountain,FRA,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Plain stage,BEL,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Stage with mountain,BEL,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,Stage with mountain,FRA,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,Stage with mountain,ITA,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Stage with mountain,FRA,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,Plain stage,FRA,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Plain stage,FRA,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Plain stage,BEL,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,Plain stage,FRA,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Stage with mountain,FRA,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,Plain stage,FRA,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Plain stage,BEL,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Plain stage,FRA,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Plain stage,FRA,16,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,Plain stage,FRA,16,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Plain stage,BEL,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Plain stage,BEL,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Stage with mountain,FRA,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Stage with mountain,FRA,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,Plain stage,FRA,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Plain stage,FRA,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+13,Plain stage,FRA,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,Plain stage,FRA,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,Plain stage,FRA,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,Plain stage,BEL,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,Plain stage,FRA,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Plain stage,FRA,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Plain stage,FRA,23,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,Plain stage,FRA,24,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,Plain stage,BEL,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0
